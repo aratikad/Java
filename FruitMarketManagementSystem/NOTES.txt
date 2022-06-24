@@ -1,0 +1,32 @@
+Method signature
+
+Every method in Java has the following signature
+
+<RETURN_TYPE>  methodName(OPTIONAL any number of arguments, separated by comma){
+	// METHOD BODY
+}
+
+NOTE: Method name are written in camel case
+
+
+ASSIGNMENT-2
+Design/Abstracted the Mango class.
+Code it.
+
+ASSIGNMENT-3
+Complete the code for all-arg constructor
+Use it in the main class to create farmer3
+
+
+CONSTRUCTORS
+Default constructor - takes no args
+We can habe many constructors each taking diff args list
+One constructor can reuse another constructor by using this(...);
+
+STATIC
+IMP: static methods can ONLY access static variables
+IMP: static methods can ONLY call OTHER STATIC methods
+
+INTERFACES
+all methods are ABSTRACT, PUBLIC/DEFAULT
+can have variables - but they all need to PUBLIC STATIC FINAL 

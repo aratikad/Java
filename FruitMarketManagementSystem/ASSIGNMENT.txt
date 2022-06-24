@@ -1,0 +1,28 @@
+5A Abstract the WholeSaler class to the maximum possible extent
+
+5B
+Which attributes will you make as public?
+Which as private, protected and default? Why?
+
+6A Create and Demo an array of String (Aditya)
+6B Create and Demo an array of Farmer (Aarti)
+6C Create an array of Farmer 
+Loop through the array and print only those 
+farmers name whose age is > 40,
+
+6D
+Do you see any similarities in Farmer and WholeSaler classes?
+If yes, what comes to your mind in terms of OOPs concepts that you can apply
+to both?
+Refactor your code to implement that OOP concept(inheritance)
+
+7A
+Develop an Apple class that implements Fruit interface
+
+ASSIGNMENT-7B
+Think of one more interface that you can have in the project
+Code it (add method decls)
+
+ASSIGNMENT-7C
+Think of a class that is both a vegetable and a fruit
+Code it 
